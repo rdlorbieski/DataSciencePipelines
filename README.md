@@ -4,21 +4,7 @@
 The primary purpose of this project is to design a robust and efficient solution that explores various data science pipelines, tackling complex challenges in the telemarketing field.
 
 Among the evaluated pipelines, we explored techniques for handling missing values, encoding categorical variables, and advanced feature engineering methods, such as Principal Component Analysis (PCA). Furthermore, we tested a variety of predictive models, including Logistic Regression, Random Forest, and Support Vector Machines. The ultimate goal is to develop a model that can accurately predict the outcome of a telemarketing campaign, thereby providing a valuable tool for future marketing strategies.
-## About Dataset
 
-This dataset captures comprehensive information about individuals contacted during a telemarketing campaign. It encompasses 19 columns detailing various aspects of each contact:
-
-- **Demographics:** This includes the age, profession, marital status, and educational background of the individuals.
-
-- **Financial Background:** Information related to any previous defaults, as well as whether the individual holds housing or personal loans, is provided.
-
-- **Campaign Details:** The dataset offers insights into the contact medium, duration of the call, the month and day of the week when the contact was made, and historical data about the number of contacts made during this and previous campaigns.
-
-- **Economic Indicators:** It integrates broader economic features such as the consumer price index, consumer confidence index, and the Euribor 3-month rate, which can offer context about the macroeconomic environment during the campaign.
-
-- **Outcome:** The pivotal column, resultado, reveals the outcome of the campaign for each individual, indicating whether they subscribed to the offered product/service.
-
-Potential challenges with this dataset include handling missing values, encoding categorical variables, managing potential class imbalances in the outcome, and addressing any outliers in numerical columns. This rich dataset offers numerous opportunities for in-depth analysis, predictive modeling, and deriving insights into factors influencing the success of telemarketing campaigns.
 ## About Dataset
 
 This dataset captures comprehensive information about individuals contacted during a telemarketing campaign. It encompasses 19 columns detailing various aspects of each contact:
